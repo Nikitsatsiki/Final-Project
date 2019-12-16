@@ -1,6 +1,6 @@
 # IMAGE PROCESSING
 ## Final Project
-*Elpiniki Zarucha*
+*Elpiniki Zarucha* @ Ironhack
 
 *DATA ft, BER, 10/19*
 
@@ -56,3 +56,5 @@ TBD
 
 Used Dataset: <br/>
 pictures taken by me
+
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
